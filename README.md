@@ -52,7 +52,4 @@ The database schema ensures efficient storage and management of movie ticket boo
 
 To set up this database, use the SQL scripts in this repository. These scripts will help create the tables and insert sample data for testing.
 
-## License
-
-This project is licensed under the MIT License.
 
